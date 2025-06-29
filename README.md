@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hello! 👋😄</h1>
 
-<!--
-**MuhammadZulvanAditya/MuhammadZulvanAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  My name is <b>Muhammad Zulvan Aditya</b>, and I'm currently an undergraduate student in my 6th semester, based in Surabaya, Indonesia.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  With a passion for technology and a strong drive to continually expand my knowledge, I'm eager to tackle new challenges, especially in the ever-evolving tech landscape. 
+  My main interests lie in front-end development where I enjoy crafting user-friendly interfaces, responsive web designs, and immersive experiences using HTML, CSS, and JavaScript.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Feel free to reach out to me at <a href="mailto:mzulvanadtya44@gmail.com">My Email!</a> I'd love to hear from you! ❤️
+</p>
+
+---
+
+### 📊 My GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZulvanAditya&show_icons=true&theme=tokyonight" alt="MuhammadZulvanAditya GitHub stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZulvanAditya&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+</div>
+
+---
+
+### 🚀 Languages & Tools
+
+```txt
+🔵 HTML
+🟣 CSS
+🟡 JavaScript
