@@ -1,38 +1,29 @@
-<h1 align="center">Hello! 👋😄</h1>
+<h1 align="center">Halo! 👋😄</h1>
 
 <p align="center">
-  My name is <b>Muhammad Zulvan Aditya</b>, and I'm currently an undergraduate student in my 6th semester, based in Surabaya, Indonesia.
+  Saya <b>Muhammad Zulvan Aditya</b>, seorang mahasiswa aktif semester 6 yang saat ini berdomisili di Surabaya, Indonesia.
 </p>
 
 <p align="center">
-  I'm passionate about front-end development and love working with HTML, CSS, and JavaScript to build interactive and user-friendly web experiences.
+  Saya memiliki ketertarikan yang besar pada dunia teknologi dan senang menjelajahi perkembangan digital yang terus berkembang. Fokus utama saya adalah pengembangan antarmuka (front-end), di mana saya menikmati proses membangun tampilan web yang responsif, interaktif, dan menarik menggunakan HTML, CSS, dan JavaScript. Saya juga terbuka untuk terus belajar dan mengembangkan kemampuan baru.
 </p>
 
 <p align="center">
-  Feel free to reach out via <a href="mailto:mzulvanadtya44@gmail.com">email</a>! ❤️
+  Jangan ragu untuk menghubungi saya melalui <a href="mailto:mzulvanadtya44@gmail.com">email</a>. Saya senang berdiskusi atau berkolaborasi dalam proyek teknologi! ❤️
 </p>
 
 ---
 
-## 📊 My GitHub Statistics
+### 📊 Statistik GitHub Saya
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadZulvanAditya&show_icons=true&theme=tokyonight" />
-
----
-
-## 🔤 Most Used Languages
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZulvanAditya&layout=compact&theme=tokyonight" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZulvanAditya&show_icons=true&theme=tokyonight" alt="Statistik GitHub MuhammadZulvanAditya" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZulvanAditya&layout=compact&theme=tokyonight" alt="Bahasa Teratas" width="45%"/>
+</div>
 
 ---
 
-## 🏅 Grade
-
-<img src="https://img.shields.io/badge/GRADE-B%2B-blue?style=for-the-badge" />
-
----
-
-## 💻 Languages I Use
+### 🚀 Bahasa & Tools yang Saya Gunakan
 
 ```txt
 🔵 HTML
