@@ -5,50 +5,36 @@
 </p>
 
 <p align="center">
-  With a passion for technology and a strong drive to continually expand my knowledge, I'm eager to tackle new challenges, especially in the ever-evolving tech landscape. 
-  My main interests lie in front-end development where I enjoy crafting user-friendly interfaces, responsive web designs, and immersive experiences using HTML, CSS, and JavaScript.
+  I'm passionate about front-end development and love working with HTML, CSS, and JavaScript to build interactive and user-friendly web experiences.
 </p>
 
 <p align="center">
-  Feel free to reach out to me at <a href="mailto:mzulvanadtya44@gmail.com">My Email!</a> I'd love to hear from you! ❤️
+  Feel free to reach out via <a href="mailto:mzulvanadtya44@gmail.com">email</a>! ❤️
 </p>
 
 ---
 
-<div align="center">
+## 📊 My GitHub Statistics
 
-### 📊 My GitHub Statistics
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-      <ul>
-        <li>🌟 <b>Total Stars:</b> 1</li>
-        <li>📦 <b>Total Commits:</b> 95</li>
-        <li>🚀 <b>Total PRs:</b> 2</li>
-        <li>🐛 <b>Total Issues:</b> 0</li>
-        <li>📍 <b>Contributed to:</b> 1</li>
-      </ul>
-
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/Grade-B%2B-blue?style=for-the-badge&logo=github" alt="Grade Badge"/>
-      </h3>
-    </td>
-
-    <td valign="top" width="50%">
-      <h3 align="center">My Programming Languages</h3>
-
-      <ul>
-        <li>🟡 JavaScript (e.g., 97.57%)</li>
-        <li>🟣 CSS</li>
-        <li>🔵 HTML</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadZulvanAditya&show_icons=true&theme=tokyonight" />
 
 ---
 
+## 🔤 Most Used Languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZulvanAditya&layout=compact&theme=tokyonight" />
+
+---
+
+## 🏅 Grade
+
+<img src="https://img.shields.io/badge/GRADE-B%2B-blue?style=for-the-badge" />
+
+---
+
+## 💻 Languages I Use
+
+```txt
+🔵 HTML
+🟣 CSS
+🟡 JavaScript
