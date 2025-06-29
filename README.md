@@ -15,18 +15,40 @@
 
 ---
 
+<div align="center">
+
 ### 📊 My GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZulvanAditya&show_icons=true&theme=tokyonight" alt="MuhammadZulvanAditya GitHub stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZulvanAditya&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+      <ul>
+        <li>🌟 <b>Total Stars:</b> 1</li>
+        <li>📦 <b>Total Commits:</b> 95</li>
+        <li>🚀 <b>Total PRs:</b> 2</li>
+        <li>🐛 <b>Total Issues:</b> 0</li>
+        <li>📍 <b>Contributed to:</b> 1</li>
+      </ul>
+
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Grade-B%2B-blue?style=for-the-badge&logo=github" alt="Grade Badge"/>
+      </h3>
+    </td>
+
+    <td valign="top" width="50%">
+      <h3 align="center">My Programming Languages</h3>
+
+      <ul>
+        <li>🟡 JavaScript (e.g., 97.57%)</li>
+        <li>🟣 CSS</li>
+        <li>🔵 HTML</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🚀 Languages & Tools
-
-```txt
-🔵 HTML
-🟣 CSS
-🟡 JavaScript
